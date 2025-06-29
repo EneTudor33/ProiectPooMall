@@ -36,6 +36,15 @@
     <ClCompile Include="om.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="angajat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="securitate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="produs.h">
@@ -54,6 +63,21 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="om.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="client.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="abonament.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="angajat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="securitate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="casier.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

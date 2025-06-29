@@ -1,15 +1,15 @@
 #pragma once
 #include<string>
 class Om {
-private:
+protected:
 	std::string m_nume;
 	std::string m_prenume;
-	int varsta;
-	std::string email;
+	int m_varsta;
+	std::string m_email;
 	const int m_id;
 	static int m_next_id;
 public:
-	~Om() = default;
+	virtual ~Om() = default;
 	Om();
 	std::string GetNume() const;
 	std::string GetPrenume() const;

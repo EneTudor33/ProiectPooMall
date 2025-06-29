@@ -127,21 +127,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="angajat.cpp" />
     <ClCompile Include="bautura.cpp" />
+    <ClCompile Include="client.cpp" />
     <ClCompile Include="gadget.cpp" />
     <ClCompile Include="haina.cpp" />
     <ClCompile Include="mancare.cpp" />
     <ClCompile Include="om.cpp" />
     <ClCompile Include="produs.cpp" />
     <ClCompile Include="ProiectMallPOO.cpp" />
+    <ClCompile Include="securitate.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="abonament.h" />
+    <ClInclude Include="angajat.h" />
     <ClInclude Include="bautura.h" />
+    <ClInclude Include="casier.h" />
+    <ClInclude Include="client.h" />
     <ClInclude Include="gadget.h" />
     <ClInclude Include="haina.h" />
     <ClInclude Include="mancare.h" />
     <ClInclude Include="om.h" />
     <ClInclude Include="produs.h" />
+    <ClInclude Include="securitate.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

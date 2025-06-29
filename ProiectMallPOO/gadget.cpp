@@ -7,8 +7,8 @@ Gadget::Gadget(std::string denumire, double pret, int cantitate, int baterie, in
 	m_pret = pret;
 	m_cantitate = cantitate;
 	m_baterie = baterie;
-	m_memorie = memore;
-	m_garanie = garantie;
+	m_memorie = memorie;
+	m_garantie = garantie;
 }
 int Gadget::GetBaterie() const
 {
