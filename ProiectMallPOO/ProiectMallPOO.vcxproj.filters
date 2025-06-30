@@ -45,6 +45,33 @@
     <ClCompile Include="securitate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bucatar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="casier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="magazin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="magazin_mancare.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="magazin_mancare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="magazin_electronice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="magazin_haine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hipermarket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="produs.h">
@@ -78,6 +105,27 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="casier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bucatar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="magazin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="vanzari_luna.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="magazin_electronice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="magazin_haine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hipermarket.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
