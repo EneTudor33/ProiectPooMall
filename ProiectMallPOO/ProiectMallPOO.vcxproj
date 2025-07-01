@@ -140,12 +140,14 @@
     <ClCompile Include="magazin_electronice.cpp" />
     <ClCompile Include="magazin_mancare.h" />
     <ClCompile Include="magazin_mancare.cpp" />
+    <ClCompile Include="mall.cpp" />
     <ClCompile Include="manager.cpp" />
     <ClCompile Include="mancare.cpp" />
     <ClCompile Include="om.cpp" />
     <ClCompile Include="produs.cpp" />
     <ClCompile Include="ProiectMallPOO.cpp" />
     <ClCompile Include="securitate.cpp" />
+    <ClCompile Include="UI.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="abonament.h" />
@@ -160,6 +162,7 @@
     <ClInclude Include="magazin.h" />
     <ClInclude Include="magazin_electronice.h" />
     <ClInclude Include="magazin_haine.h" />
+    <ClInclude Include="mall.h" />
     <ClInclude Include="manager.h" />
     <ClInclude Include="mancare.h" />
     <ClInclude Include="om.h" />

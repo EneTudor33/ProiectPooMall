@@ -2,8 +2,8 @@
 //
 
 #include <iostream>
-
+#include "mall.h"
 int main()
 {
-    std::cout << "Hello World!\n";
+    Mall mall;
 }
